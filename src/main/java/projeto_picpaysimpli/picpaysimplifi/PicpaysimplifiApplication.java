@@ -3,6 +3,8 @@ package projeto_picpaysimpli.picpaysimplifi;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+
+
 @SpringBootApplication
 public class PicpaysimplifiApplication {
 
